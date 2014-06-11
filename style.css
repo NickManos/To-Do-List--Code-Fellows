@@ -1,0 +1,13 @@
+#background {
+	width:600px;
+	margin:auto;
+	background-color:#F5F5DC;
+	text-align:center;
+}
+
+#theList {
+	width:200px;
+	margin:auto;
+	text-align:left;
+	padding-bottom:10px;
+}
